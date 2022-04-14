@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Alan_AI_News_app/static/css/main.e23e6b48.chunk.css",
+    "main.js": "/Alan_AI_News_app/static/js/main.8c3a85ca.chunk.js",
+    "main.js.map": "/Alan_AI_News_app/static/js/main.8c3a85ca.chunk.js.map",
+    "runtime-main.js": "/Alan_AI_News_app/static/js/runtime-main.7a3bfc98.js",
+    "runtime-main.js.map": "/Alan_AI_News_app/static/js/runtime-main.7a3bfc98.js.map",
+    "static/js/2.58a8787f.chunk.js": "/Alan_AI_News_app/static/js/2.58a8787f.chunk.js",
+    "static/js/2.58a8787f.chunk.js.map": "/Alan_AI_News_app/static/js/2.58a8787f.chunk.js.map",
+    "index.html": "/Alan_AI_News_app/index.html",
+    "precache-manifest.012e7b40c18ccfdb98afe5be2adac745.js": "/Alan_AI_News_app/precache-manifest.012e7b40c18ccfdb98afe5be2adac745.js",
+    "service-worker.js": "/Alan_AI_News_app/service-worker.js",
+    "static/css/main.e23e6b48.chunk.css.map": "/Alan_AI_News_app/static/css/main.e23e6b48.chunk.css.map",
+    "static/js/2.58a8787f.chunk.js.LICENSE.txt": "/Alan_AI_News_app/static/js/2.58a8787f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a3bfc98.js",
+    "static/js/2.58a8787f.chunk.js",
+    "static/css/main.e23e6b48.chunk.css",
+    "static/js/main.8c3a85ca.chunk.js"
+  ]
+}
